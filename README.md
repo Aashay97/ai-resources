@@ -16,7 +16,9 @@ Some resources (mostly courses) that I've come across during my exploration of t
 [2017](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 * Introduction to Reinforcement Learning - DeepMind x UCL 
-[2015](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
+[2015](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+[2018](https://www.youtube.com/watch?v=ISk80iLhdfU&list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
+[2021](https://www.youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
 
 * Natural Language Processing with Deep Learning - Stanford
 [2019](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
