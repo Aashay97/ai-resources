@@ -34,13 +34,26 @@ Some resources (mostly courses) that I've come across during my exploration of t
 * Advanced Robotics - UC Berkeley
 [2019](https://www.youtube.com/watch?v=xWPViQ6LI-Q&list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF)
 
-* Deep Multi-Task and Meta-Learning - Stanford
+* Deep Multi-Task and Meta Learning - Stanford
 [2019](https://www.youtube.com/watch?v=0rZtSwNOTQo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
 
 * Deep Reinforcement Learning - UC Berkeley
 [2019](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
 [2020](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
-[2021](https://youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH)
+[2021](https://www.youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH)
+
+* Theoretical Foundations of Reinforcement Learning - UAlberta
+[2021](https://rltheory.github.io/pages/lectures/)
+
 
 ## Podcasts
 * [TalkRL](https://www.talkrl.com/): The Reinforcement Learning Podcast
+
+
+## Text
+
+* Algorithms for Reinforcement Learning - Csaba Szepesvári
+[pdf](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
+
+* Reinforcement Learning: An Introduction - Sutton & Barto 
+[2nd edition](http://www.incompleteideas.net/book/the-book-2nd.html)
